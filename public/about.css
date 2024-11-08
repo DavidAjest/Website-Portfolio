@@ -265,6 +265,9 @@ h3 {
 
     padding-top: 0%;
   }
+  #a-container-social-media-icons a:nth-child(2) {
+    pointer-events: none;
+  }
   #hr-footer {
     display: none;
   }
